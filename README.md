@@ -1,3 +1,6 @@
-TODO:
+# Chat app for SLA
 
-- Host with firebase
+Hosting with Firebase Directions:
+`firebase init`
+`npm run build` or `yarn run build`
+`firebase deploy`
